@@ -6,7 +6,7 @@ DC.p4: Programming the Forwarding Plane of a Data-Center Switch
 1. git clone https://github.com/p4lang/papers/
 2. git clone https://github.com/p4lang/p4factory/
 3. cd p4factory
-4. git checkout 3b0de0136faf3c8fe3a969f5488054b7a91f3568
+4. git checkout sosr-dc-p4
 5. # Follow the instructions in p4factory/README.md to install the P4 compiler and software switch
 6. cd targets
 7. ../tools/newtarget.py DC
