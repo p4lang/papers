@@ -42,7 +42,7 @@
 /* BD table */
 #include "ingress/bd.p4"
 
-/* validate packet table, check if link locla, or malformed based on MAC DST and IPv4 DST */
+/* validate packet table, check if link local, or malformed based on MAC DST and IPv4 DST */
 #include "ingress/validate_packet.p4"
 
 /* SMAC table, SMAC: source MAC */
