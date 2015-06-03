@@ -13,7 +13,7 @@ DC.p4: Programming the Forwarding Plane of a Data-Center Switch
 4. git checkout sosr-dc-p4
 5. # Follow the instructions in https://github.com/p4lang/p4factory/#quickstart  to install the P4 development environment
 6. cd ~/p4factory/targets
-7. ../tools/newtarget.py DC
+7. ~/p4factory/tools/newtarget.py DC
 8. cp -r ~/papers/sosr15/DC.p4/* ./DC/p4src
 9. cd DC
 10. make # To compile executable version of DC.p4
