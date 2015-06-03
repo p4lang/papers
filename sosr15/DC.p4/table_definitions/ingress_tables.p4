@@ -57,6 +57,9 @@
 /* MAC and IP ACL */
 #include "ingress/mac_ip_acl.p4"
 
+/* Mirror ACL */
+#include "ingress/mirror_acl.p4"
+
 /* IP_RACL table, What is RACL? */
 #include "ingress/ip_racl.p4"
 
