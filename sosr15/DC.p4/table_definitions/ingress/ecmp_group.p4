@@ -51,7 +51,7 @@ action_profile ecmp_action_profile {
         set_ecmp_nexthop_details_for_post_routed_flood;
     }
     size : ECMP_SELECT_TABLE_SIZE;
-    selector : ecmp_selector;
+    dynamic_action_selection : ecmp_selector;
 }
 
 table ecmp_group {
