@@ -2,7 +2,7 @@ Instructions to reproduce results from SOSR 2015 paper:
 
 DC.p4: Programming the Forwarding Plane of a Data-Center Switch
 
-0. sudo apt-get install git
+0. sudo apt-get install git make
 1. git clone https://github.com/p4lang/papers/
 2. git clone https://github.com/p4lang/p4factory/
 3. cd p4factory
