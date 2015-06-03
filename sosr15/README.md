@@ -14,7 +14,7 @@ DC.p4: Programming the Forwarding Plane of a Data-Center Switch
 9. cd DC
 10. make # To compile executable version of DC.p4
 11. sudo ./behavioral-model # To run it
-12. sudo python run_tests.py --test-dir of-tests/tests/ # Simple echo test using run-time API
+12. sudo python run_tests.py --test-dir of-tests/tests/ # Simple echo test using run-time API; run in a different terminal
 
 The instructions above were tested on an Ubuntu 14.04 EC2 instance.
 
