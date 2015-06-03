@@ -1,7 +1,9 @@
 Instructions to reproduce results from SOSR 2015 paper 
+
 DC.p4: Programming the Forwarding Plane of a Data-Center Switch
 
 (The below instructions were tested on a fresh Ubuntu 14.04 EC2 instance)
+
 (Assume we start at the home directory ~)
 
 0. sudo apt-get install git make
