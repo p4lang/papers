@@ -16,3 +16,5 @@ DC.p4: Programming the Forwarding Plane of a Data-Center Switch
 The instructions above were tested on an Ubuntu 14.04 EC2 instance.
 
 They create a p4 target in the same vein as targets in https://github.com/p4lang/p4factory/
+
+If something doesn't work, please send an email to anirudh@csail.mit.edu
