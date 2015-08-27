@@ -1,1 +1,1 @@
-Check back here for instructions to reproduce results from In-band Network Telemetry demo.
+We expect to release open-source code for the INT demo by the first week of October. Please check back here then.
