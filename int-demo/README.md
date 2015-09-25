@@ -1,1 +1,1 @@
-We expect to release open-source code for the INT demo by the first week of October. Please check back here then.
+Open-source code for INT is available at: https://github.com/p4lang/p4factory/tree/master/apps/int
