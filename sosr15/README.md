@@ -1,3 +1,5 @@
+These instructions exist for archival purposes. A more recent version of this program, switch.p4, with more features is available at: https://github.com/p4lang/switch.
+
 Instructions to reproduce results from SOSR 2015 paper 
 
 DC.p4: Programming the Forwarding Plane of a Data-Center Switch
