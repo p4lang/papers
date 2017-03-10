@@ -1,0 +1,8 @@
+This tech talk is about how P4 Software Switch is helping evolution of OpenSwitch. Talk will provide a brief introduction to OpenSwitch and how P4 Software Switch is integrated into the OpenSwitch.
+
+OpenSwitch is a community based, open source, full-featured network operating system. In addition to running on various hardware platforms, OpenSwitch can also run on Linux servers as a docker container image or as a VM (OVF). But to run OpenSwitch in this mode, it is necessary to have a software layer that simulates switch forwarding path. And P4 Software Switch (or known commonly as Behavioral Model) is used for the purpose.
+
+A new P4 specific plugin module on OpenSwitch side integrates Behavioral Model with the OpenSwitch. As OpenSwitch is evolving with more feature sets and capabilities, existing switch.p4 and related OpenSwitch plugin module are modified to support new changes for simulation platform. Current effort is focused on adding additional Layer 3 features to the P4 plugin for OpenSwitch. Developing this plugin for simulation platform also enables the same plugin to be used for hardware ASIC platforms which have support for P4.
+
+*This presentation also has an associated demo: P4 and OpenSwitch* 
+
