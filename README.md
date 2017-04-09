@@ -81,3 +81,8 @@ Papers
   ACM SIGCOMM Computer Communication Review, vol. 44, no. 2, pp. 44–51, 2014
   7 pages [ pdf ](http://openstate-sdn.org/pub/openstate-ccr.pdf)
   website [ OpenState SDN project ](http://openstate-sdn.org/)
+
+projects
+---------
+
+1. https://github.com/sendendi/Early-DDoS-Detection-on-Stateless-Device
