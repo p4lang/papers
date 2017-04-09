@@ -71,4 +71,13 @@ Papers
   Oliver Michel, Eric Keller, University of Colorado Boulder
   2016 IEEE International Conference on Cloud Engineering Workshop (IC2EW)
   6 pages [ pdf ](https://olivermichel.github.io/doc/prpl-sds16.pdf)
-
+* Paxos Made Switch-y
+  Huynh Tu Dang, Marco Canini, Fernando Pedone, Robert Soule, Universita della Svizzera italiana, Universite catholique de Louvain
+  ACM SIGCOMM Computer Communication Review, Volume 46, Number 2, April 2016
+  6 pages [ pdf ](http://www.sigcomm.org/sites/default/files/ccr/papers/2016/April/0000000-0000002.pdf), 
+  website [ NetPaxos ](http://www.inf.usi.ch/faculty/soule/netpaxos.html)
+* OpenState: Programming Platform-independent Stateful OpenFlow Applications Inside the Switch
+  G. Bianchi, M. Bonola, A. Capone, C. Cascone,  Univ. Roma Tor Vergata, Politecnico di Milano 
+  ACM SIGCOMM Computer Communication Review, vol. 44, no. 2, pp. 44–51, 2014
+  7 pages [ pdf ](http://openstate-sdn.org/pub/openstate-ccr.pdf)
+  website [ OpenState SDN project ](http://openstate-sdn.org/)
