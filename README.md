@@ -18,6 +18,12 @@ Papers
   ACM Sigcomm Computer Communications Review (CCR). Volume 44, Issue #3 (July 2014)  
   8 pages	[ pdf ](http://yuba.stanford.edu/~nickm/papers/v44n3k2-bosshartA.pdf), Chinese Edition [ pdf ](http://yuba.stanford.edu/~nickm/papers/cccf.pdf)
 
+* Millions of Little Minions: Using Packets for Low Latency Network Programming and Visibility
+  Vimalkumar Jeyakumar, Mohammad Alizadeh, Yilong Geng, Changhoon Kim, David Mazières, Stanford University, Cisco Systems, Barefoot Networks
+  Sigcomm 2014
+  12 pages [ pdf ](http://www.scs.stanford.edu/~jvimal/tpp-sigcomm14.pdf), [ slides ](http://conferences.sigcomm.org/sigcomm/2014/doc/slides/4.pdf), website [Tiny Packet Programms](http://jvimal.github.io/tpp)
+  same as Tiny Packet Programs for low-latency network control and monitoring, HotNets 2013
+
 * Towards Programmable Packet Scheduling  
   Anirudh Sivamaran, Suvinay Subramanian, Anurag Agrawal, Sharad Chole, Shang-Tse Chuang, Tom Edsall, Mohammad Alizadeh, Sachin Katti, Nick McKeown, Hari Balakrishnan  
   HotNets' 15, Philadelphia, PA  
