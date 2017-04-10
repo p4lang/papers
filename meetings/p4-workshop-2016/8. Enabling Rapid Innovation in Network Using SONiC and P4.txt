@@ -1,0 +1,7 @@
+Software for Open Networking in the Cloud (SONiC) is a collection of software networking components that can be used for building an open sourced network switch on a Linux distribution. SONiC works with the Switch Abstraction Interface (SAI) via which it can talk to various switching ASICs giving users access to rapid innovation in the network switching space.
+
+P4 is a high level programming language for the networking domain. It can be used to define or describe the packet processing functions of the data plane of a network switch or any such forwarding device. 
+
+This talk will highlight the architecture and benefits of SONiC. Additionally, it will also showcase how SONiC can use a P4 data plane for new feature development, testing and validation. A P4 program called switch.p4 has already been connected to SONiC via the SAI APIs. The talk will also cover Packet Test Framework (PTF) which is used for checking compliance to the SAI specification.
+
+*This presentation also has an associated demo: Enabling Rapid Innovation in the Network Using SONiC and P4* 

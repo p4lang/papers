@@ -1,0 +1,3 @@
+Whitebox Architectural Considerations: The Intersection of Merchant Silicon, P4, Network Operating System, and the Open Source Ecosystem
+
+Application of whitebox platforms are rapidly expanding beyond the data center and into Tier 1 carrier wide area network transport, switching, and routing.  We describe how the right architectural framework for whitebox networks at the intersection of programmable pipeline Merchant Silicon, P4 pipeline programming abstractions, Network OS'es, and the Open Source software ecosystem can create a powerful combination to efficiently and rapidly enable innovative new wide area networking services.
